@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Usersiddarth
-- 👀 I’m interested in Java, Computer Networks, VLSI
-- 🌱 I’m currently learning Life
+- 👋 Hi, I’m @Siddarth
+- 👀 I’m interested in Data Analyst
+
 
 <!---
 Usersiddarth/Usersiddarth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
